@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Berkay Arda
 
 🎓 **MSc Computer Engineer @ Izmir University of Economics**  
-🔬 Researcher @ ISPA 2025 | Presented *"ShielDir: AI-powered real-time threat detection system"*  
+🔬 Researcher *"ShielDir: AI-powered real-time threat detection system"*  
 💻 Full-Stack Developer | AI & Computer Vision Enthusiast | Unity Game Developer
 
 ---
