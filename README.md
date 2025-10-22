@@ -54,7 +54,7 @@ Built a **cross-platform scheduling and event management** system with real-time
 
 ---
 
-#### 🌲 Smart Wildfire Management
+#### 🌲 [Smart Wildfire Management](https://github.com/BerkayArdaa/Feng497-BioAi?tab=readme-ov-file)
 > Python · Machine Learning · Bioengineering · Random Forest  
 Worked in a multidisciplinary team to create an **AI-based wildfire prediction system**, analyzing thermal and vegetation data.  
 Explored use of **genetically engineered fire-resistant trees** for sustainable fire prevention.
