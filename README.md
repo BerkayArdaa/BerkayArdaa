@@ -84,7 +84,7 @@ Implemented AI pathfinding, wave control systems, and modular architecture.
 
 ---
 
-#### 🕵️ Kormos – 3D Supernatural Detective Adventure Game  
+#### 🕵️ [Kormos – 3D Supernatural Detective Adventure Game](https://github.com/BerkayArdaa/Kormos-Supernatural-Detective-Adventure-Game)  
 > Unity · C# · 3D · AI · Animation · UI Design  
 Developed a **supernatural 3D detective game** centered on investigation, puzzles, and combat.  
 Introduced **time manipulation and clone summoning** abilities for complex gameplay interactions.  
