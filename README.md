@@ -92,11 +92,5 @@ Designed a dark-themed **3D detective game** with supernatural elements, time ma
 
 ---
 
-### 📊 GitHub Insights
-![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkayArdaa&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayArdaa&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BerkayArdaa&theme=radical)
-
----
 
 > “Technology should not only solve problems — it should empower creativity and protect what matters.”
