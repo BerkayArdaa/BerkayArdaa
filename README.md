@@ -67,7 +67,7 @@ Features include ZIP batch processing, automatic compilation, output validation,
 
 ## 🎮 Game Development Projects  
 
-#### 🏢 [Teracity Internship Project – 2D Action-Adventure Game](https://github.com/BerkayArdaa/Teracity-Internship-Game)  
+#### 🏢 [Teracity Internship Project – 2D Action-Adventure Game](https://github.com/BerkayArdaa/Teracity_Game_Project)  
 > Unity · C# · OOP · Game AI · UI Design  
 Developed a **2D action-adventure game** during my internship at **Teracity Software Technologies**.  
 - Implemented **wave-based enemy spawning** and **boss mechanics**.  
