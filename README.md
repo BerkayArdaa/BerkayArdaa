@@ -61,7 +61,7 @@ Explored use of **genetically engineered fire-resistant trees** for sustainable 
 
 ---
 
-#### ⚙️ [EasyAssign – Automated Coding Assignment Evaluation Tool](https://github.com/ozgeozerr/CE316-PROJECT)
+#### ⚙️ [EasyAssign – Automated Coding Assignment Evaluation Tool](https://github.com/BerkayArdaa/EasyAssign-Automated-Coding-Assignment-Evaluation-Tool)
 > C# · .NET · WinForms · SQL  
 Developed a lightweight desktop app for **automated grading** of coding assignments.  
 Implements bulk ZIP evaluation, compilation error handling, and output matching for instant accuracy.
