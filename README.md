@@ -48,7 +48,7 @@ Simulated a lightweight blockchain for **wireless sensor networks**, improving d
 
 ---
 
-#### 💬 [Virtual Event Management System](https://github.com/BerkayArdaa/VirtualEventSystem)
+#### 💬 [Virtual Event Management System](https://github.com/BerkayArdaa/Virtual-Event-Application)
 > C# · WinForms · ASP.NET Core · REST API · SQL  
 Built a **cross-platform scheduling and event management** system with real-time notifications, event filtering, and role-based access control.
 
