@@ -27,7 +27,7 @@ I love building scalable, intelligent systems that combine creativity and deep t
 
 ### 🚀 Featured Projects
 
-#### 🧠 [ShielDir – AI-Powered Real-Time Threat Detection System](https://github.com/ahmetalpsamur/ShielDir)
+#### 🧠 [ShielDir – AI-Powered Real-Time Threat Detection System](https://github.com/BerkayArdaa/ShielDir)
 > Python · YOLOv8–v12 · VideoMAE · OpenCV · TensorFlow · PyTorch · Firebase · Docker  
 Developed an AI-based surveillance system integrating **weapon detection** (YOLO) and **behavioral analysis** (VideoMAE).  
 Containerized the system using Docker for scalable real-time alerts via Firebase mobile notifications.  
