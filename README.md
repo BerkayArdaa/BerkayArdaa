@@ -27,7 +27,7 @@ I love building scalable, intelligent systems that combine creativity and deep t
 
 ### 🚀 Featured Projects
 
-#### 🧠 [ShielDir – AI-Powered Real-Time Threat Detection System](https://github.com/BerkayArdaa/ShielDir)
+#### 🧠 [ShielDir – AI-Powered Real-Time Threat Detection System](https://github.com/ahmetalpsamur/ShielDir)
 > Python · YOLOv8–v12 · VideoMAE · OpenCV · TensorFlow · PyTorch · Firebase · Docker  
 Developed an AI-based surveillance system integrating **weapon detection** (YOLO) and **behavioral analysis** (VideoMAE).  
 Containerized the system using Docker for scalable real-time alerts via Firebase mobile notifications.  
@@ -61,7 +61,7 @@ Explored use of **genetically engineered fire-resistant trees** for sustainable 
 
 ---
 
-#### ⚙️ EasyAssign – Automated Coding Assignment Evaluation Tool
+#### ⚙️ [EasyAssign – Automated Coding Assignment Evaluation Tool](https://github.com/ozgeozerr/CE316-PROJECT)
 > C# · .NET · WinForms · SQL  
 Developed a lightweight desktop app for **automated grading** of coding assignments.  
 Implements bulk ZIP evaluation, compilation error handling, and output matching for instant accuracy.
