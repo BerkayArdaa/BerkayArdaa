@@ -1,14 +1,23 @@
+# 📄 Curriculum Vitae (CV)
+
+This section provides a concise overview of my academic background, technical expertise,
+and professional experience.
+
+For a complete and up-to-date version of my CV, including detailed project descriptions,
+research work, and technical skills, please use the link below:
+
+▶ **Download Full CV (PDF)**  
+https://berkayardaa.github.io/mywebsite/Berkay_ArdaCV_10_2025_.pdf
+
+
+---
+
 # 👋 Hi, I'm Berkay Arda
 
 🎓 **MSc Computer Engineer @ Izmir University of Economics**  
 🔬 Researcher – *"ShielDir: AI-powered real-time threat detection system"*  
 💻 Full-Stack Developer | AI & Computer Vision Enthusiast | Unity Game Developer  
 
-#CV
-This document provides a brief overview of my background.
-You can access my full and detailed CV via the link below.
-▶ Download Full CV (PDF):
-https://berkayardaa.github.io/mywebsite/Berkay_ArdaCV_10_2025_.pdf
 ---
 
 ### 🧠 About Me  
