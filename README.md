@@ -4,6 +4,11 @@
 🔬 Researcher – *"ShielDir: AI-powered real-time threat detection system"*  
 💻 Full-Stack Developer | AI & Computer Vision Enthusiast | Unity Game Developer  
 
+#CV
+This document provides a brief overview of my background.
+You can access my full and detailed CV via the link below.
+▶ Download Full CV (PDF):
+https://berkayardaa.github.io/mywebsite/assets/Berkay_Arda_CV.pdf
 ---
 
 ### 🧠 About Me  
