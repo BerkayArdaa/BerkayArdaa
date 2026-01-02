@@ -8,7 +8,7 @@
 This document provides a brief overview of my background.
 You can access my full and detailed CV via the link below.
 ▶ Download Full CV (PDF):
-https://berkayardaa.github.io/mywebsite/assets/Berkay_Arda_CV.pdf
+https://berkayardaa.github.io/mywebsite/assets/Berkay_ArdaCV_10_2025_.pdf
 ---
 
 ### 🧠 About Me  
