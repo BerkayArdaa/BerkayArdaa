@@ -7,7 +7,7 @@ For a complete and up-to-date version of my CV, including detailed project descr
 research work, and technical skills, please use the link below:
 
 ▶ **Download Full CV (PDF)**  
-https://berkayardaa.github.io/mywebsite/Berkay%ArdaCV_2026_03
+https://berkayardaa.github.io/mywebsite/Berkay%20ArdaCV_2026_03.pdf
 
 
 ---
